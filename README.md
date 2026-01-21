@@ -21,7 +21,6 @@
 3. 🔋 [Features](#features)
 4. 🤸 [Quick Start](#quick-start)
 
-## 🚨 Tutorial
 
 
 ## <a name="introduction">✨ Introduction</a>
